@@ -9,7 +9,7 @@ public class CollectionsClass {
         // Created non-generic ArrayList
         ArrayList arryLst01 = new ArrayList();
         arryLst01.add("Bettin");
-        arryLst01.add("Australia");
+        arryLst01.add("Australia Edited");
         arryLst01.add(35);
         System.out.println(arryLst01);
 
